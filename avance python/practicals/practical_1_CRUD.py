@@ -1,0 +1,8 @@
+f = open("demofile.txt", "r")
+print(f)
+f = open("demofile.txt", "a")
+print(f)
+f = open("demofile.txt", "w")
+print(f)
+f = open("demofile.txt1", "x")
+print(f)
